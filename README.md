@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> Estou cursando o quinto período da faculdade de engenharia de software <br>📚 Atualmente estou focado e aprendendo bastante java para desenvolvimento back-end e com boas práticas em desenvolvimento web <br>
+<p align="left"> Estou cursando o quinto período da faculdade de engenharia de software <br>📚 Atualmente estou focado e aprendendo bastante java para desenvolvimento back-end e com boas práticas em desenvolvimento web. <br>
 
 ###
 
@@ -22,7 +22,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://www.flaticon.com/br/icone-gratis/css-3_5968242)" height="40" alt="css logo"  />
+  <img src="https://www.flaticon.com/br/icone-gratis/css-3_5968242" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
