@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> Estou cursando o quinto período da faculdade de engenharia de software <br>📚 Atualmente estou focado e aprendendo bastante java para desenvolvimento back-end e com boas práticas em desenvolvimento web. <br>
+<p align="left"> Estou cursando o quinto período da faculdade de engenharia de software <br>📚 Atualmente estou focado e me aprofundando bastante no desenvolvimento back-end e com boas práticas em framewoks em desenvolvimento front-end. <br>
 
 ###
 
