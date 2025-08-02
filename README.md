@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Levi tenho 21 anos de idade, sou de Manaus/Am </p>
+<p align="left">Meu nome é Levi tenho 21 anos de idade, sou de Manaus/Am. </p>
 
 ###
 
