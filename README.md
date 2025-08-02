@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> Estou cursando o quinto período da faculdade de engenharia de software <br>📚 Atualmente estou focado e me aprofundando bastante no desenvolvimento back-end e com boas práticas em framewoks de desenvolvimento front-end. <br>
+<p align="left"> Sou estudante de Engenharia de Software e desenvolvedor em formação com foco em back-end Java com Spring Boot, APIs REST, banco de dados MySQL e boas práticas de versionamento com Git. <br>📚 Tenho experiência em projetos acadêmicos e pessoais envolvendo desenvolvimento web com HTML, CSS e JavaScript, além de aplicações com foco em estrutura de dados, como árvores B e listas. <br>
 
 ###
 
