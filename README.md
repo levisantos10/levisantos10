@@ -31,9 +31,6 @@
 - 🌳 [Jungle tour](https://github.com/levisantos10/Web-Project)
    Projeto acadêmico desenvolvido com HTML + CSS e Javascrit com o objetivo promover a inclusão social e o desenvolvimento sustentável na região amazônica.
 
-- 🎯 [Smart Task Manager API](https://github.com/levisantos10/smart-task-manager)  
-  API de gestão de tarefas inteligente com uso de IA (Ainda em desenvolvimento) utilizando Python + React.js, autenticação JWT e integração com MySQL.
-
 - 💊 [Sistema de Drogaria](https://github.com/levisantos10/Sistema-de-Gerenciamento-de-Farmacia)  
   Projeto acadêmico desenvolvido em C com índice primário usando Árvore B e busca por funcionalidade.
 
