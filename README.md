@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  Meu nome é <strong>Levi</strong>, tenho 21 anos e sou de <strong>Manaus/AM</strong> 🇧🇷
+  Meu nome é <strong>Levi</strong>, tenho 22 anos e sou de <strong>Manaus/AM</strong> 🇧🇷
 </p>
 
 ---
